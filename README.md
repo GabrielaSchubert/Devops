@@ -12,3 +12,5 @@ sobre:
 ● Kubernetes com Kind
 ● Kustomize
 ● ArgoCD
+
+Feito até o fluxo CI-CD, abriu o ArgoCD e subi alterações finais.
